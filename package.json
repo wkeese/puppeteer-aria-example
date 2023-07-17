@@ -1,0 +1,11 @@
+{
+  "description": "Example of using pupeteer to lookup elements by their ARIA properties",
+  "type": "module",
+  "dependencies": {
+    "puppeteer": "^20.8.2"
+  },
+  "engines": {
+    "node": ">=20.0.0",
+    "npm": ">=9.0.0"
+  }
+}
